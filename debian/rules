@@ -24,7 +24,7 @@ install: build
 
 	# Add here commands to install the package into debian/instantfun.
 	mkdir -p $(CURDIR)/debian/instantfun
-	cp -r $(CURDIR)/usr $(CURDIR)/debian/instantfun/
+	cp -r $(CURDIR)/src/usr $(CURDIR)/debian/instantfun/
 
 	#cleaning pyc files
 	rm -f $(CURDIR)/debian/instantfun/usr/share/instantfun/lib/*.pyc
