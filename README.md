@@ -3,6 +3,8 @@ instantfun
 
 soundboard for the notification area. 
 
+![illustration](http://cloud.github.com/downloads/kinkerl/instantfun/instantfun.jpg)
+
 
 installation
 ===============
